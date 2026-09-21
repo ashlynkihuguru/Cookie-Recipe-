@@ -172,7 +172,7 @@ img { display: block; max-width: 100%; }
 }
 .ingredients-list label:has(input:checked) span { color: var(--stone-brown); text-decoration: line-through; }
 
-/* The larger, bottom-left image uses cookie-1.jpg */
+/* The larger, bottom-left image uses chocolate chip cookie 1.jpg */
 .large-cookie-image { width: 100%; margin-top: auto; padding-top: var(--space-xl); }
 .large-cookie-image img {
     width: min(100%, 420px);
